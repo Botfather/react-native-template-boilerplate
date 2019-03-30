@@ -1,4 +1,25 @@
 {
   "name": "react-native-template-boilerplate",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "Boilerplate setup for React Native Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Botfather/react-native-template-boilerplate"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "boilerplate",
+    "setup"
+  ],
+  "author": "Botfather",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botfather/react-native-template-boilerplate/issues"
+  },
+  "homepage": "https://github.com/botfather/react-native-template-boilerplate#readme"
 }
