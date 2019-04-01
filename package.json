@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Boilerplate setup for React Native Projects",
   "main": "index.js",
   "scripts": {
